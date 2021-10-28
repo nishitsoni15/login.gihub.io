@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.wrap{
+    margin: 0 auto;
+    max-width: 375px;
+}
+.container{
+    width: 375px;
+    height: 860px;
+    border: 1px solid black;
+}
+.header{
+    padding: 30px;
+}
+.header img{
+    margin-right: 254px;
+    margin-left: 29px   ;
+}
+.main .banner_main{
+    margin-top: 50px;
+    margin-left: 44px;
+    margin-right: 47px;
+}
+.firstPara{
+    margin-top: 40px;
+}
+.firstPara h1{
+    text-align: center;
+    font-size: 39px;
+color: #000000;
+font-weight: bold;
+font-family: "Helvetica Neue";
+margin: 0 135px;
+}
+.firstPara p{
+    font-size: 17px;
+line-height: 26px;
+color: #818593;
+font-weight: 500;
+font-family: "Helvetica Neue";
+text-align: center;
+margin: 27px 38px;
+}
+.banner_btns{
+    margin-top: 43px;
+    padding: 0 30px;
+}
+.loginBtn{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Helvetica Neue";
+    width: 147px;
+height: 52px;
+border-radius: 26px;
+background-color: #225dd9;
+margin-right: 6px;
+}
+.signBtn{
+    font-size: 18px;
+color: #000000;
+font-weight: bold;
+font-family: "Helvetica Neue";
+width: 147px;
+height: 52px;
+border-radius: 26px;
+background-color: #ffffff;
+border: 2px solid #1f2021;
+margin-right: 6px;
+}
+.lastPara{
+    margin-top: 60px;
+}
+.lastPara p{
+    font-size: 17px;
+color: #818593;
+font-weight: 500;
+font-family: "Helvetica Neue";
+margin: 0 112px;
+}
+.icons{
+   
+  padding: 20px 110px;
+}
+.icons .icon_1{
+    border: 1px solid blue;
+    border-radius: 50%;
+    padding: 10px 15px;  
+}
+.icons .icon_2{
+    border: 1px solid blue;
+    border-radius: 50%;
+    padding:  12px;
+ 
+}
+.icons .icon_3{
+    border: 1px solid blue;
+    border-radius: 50%;
+    padding: 12px;
+}
